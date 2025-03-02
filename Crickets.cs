@@ -1,0 +1,18 @@
+using UnityEngine;
+
+public class Crickets : MonoBehaviour
+{
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        //Выводим слово "crickets" в консоль каждый кадр
+        Debug.Log("crickets");
+        
+    }
+}
